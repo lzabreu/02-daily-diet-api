@@ -1,3 +1,5 @@
 node_modules
 db/daily-diet.db
+db/test.db
 .env
+.env.test

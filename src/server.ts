@@ -12,5 +12,5 @@ app
     port: env.PORT,
   })
   .then(() => {
-    console.log(`Server listening on port 3333`)
+    console.log(`Server listening on port ${env.PORT}`)
   })
